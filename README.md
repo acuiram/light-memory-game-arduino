@@ -17,6 +17,16 @@ have to press the corresponding buttons (in order) with the way the LEDs lit up.
 <br>**Electrical Diagram:**
 <br>![image](https://user-images.githubusercontent.com/106117736/209582801-a5d61e91-e0d3-4b1a-8eee-2e6fa283d215.png)
 
+<br>**Hardware Components:**
+-5 LEDs
+-6 press buttons
+-6 1kohm resistors
+-5 330ohm resistors
+-I2C LCD
+-Breadboard
+-Wires
+-Intel Galileo Gen. 2 Board
+
 <br>**Layout:**
 <br>![image](https://user-images.githubusercontent.com/106117736/209582864-c085e232-3f67-46bc-9c73-ac1831deff00.png)
 
