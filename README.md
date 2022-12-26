@@ -15,8 +15,8 @@ have to press the corresponding buttons (in order) with the way the LEDs lit up.
 - Digital LOW will mean that a button was pressed
 
 <br>**Electrical Diagram:**
-![image](https://user-images.githubusercontent.com/106117736/209582801-a5d61e91-e0d3-4b1a-8eee-2e6fa283d215.png)
+<br>![image](https://user-images.githubusercontent.com/106117736/209582801-a5d61e91-e0d3-4b1a-8eee-2e6fa283d215.png)
 
 <br>**Layout:**
-![image](https://user-images.githubusercontent.com/106117736/209582864-c085e232-3f67-46bc-9c73-ac1831deff00.png)
+<br>![image](https://user-images.githubusercontent.com/106117736/209582864-c085e232-3f67-46bc-9c73-ac1831deff00.png)
 
