@@ -13,3 +13,10 @@ have to press the corresponding buttons (in order) with the way the LEDs lit up.
 - If the difficulty button is pressed one more time, when the difficulty is already set to ‘MAX’, it will return to the default value of one second, avoiding the speed between lights up to be zero and the game not to work.
 - When a button is pressed, the corresponding LED will light up.
 - Digital LOW will mean that a button was pressed
+
+<br>**Electrical Diagram:**
+![image](https://user-images.githubusercontent.com/106117736/209582801-a5d61e91-e0d3-4b1a-8eee-2e6fa283d215.png)
+
+<br>**Layout:**
+![image](https://user-images.githubusercontent.com/106117736/209582864-c085e232-3f67-46bc-9c73-ac1831deff00.png)
+
